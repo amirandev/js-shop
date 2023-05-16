@@ -36,3 +36,6 @@ console.log("მთლიანი გადასახდელი:", total);
 shop.checkEnoughMoney(5.20); // 5 ლარი და 20 თეთრი მაგალითად
 
 ```
+
+### კლასის გადმოწერა:
+https://github.com/amirandev/js-shop/blob/main/simple-shop.js
